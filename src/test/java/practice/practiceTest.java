@@ -10,5 +10,9 @@ class practiceTest {
 	void test() {
 		System.out.println("PRINTING TEST RESULT");
 	}
+	@Test
+	void test2() {
+		System.out.println("PRINTING TEST2 RESULT");
+	}
 
 }
